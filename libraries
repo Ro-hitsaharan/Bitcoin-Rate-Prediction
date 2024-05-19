@@ -3,3 +3,5 @@ pip install math
 pip install pandas
 pip install tensorflow
 pip install bokeh
+if any of them is not working then upgrade pip
+python -m pip install --upgrade pip
