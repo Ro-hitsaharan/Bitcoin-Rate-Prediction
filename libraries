@@ -1,0 +1,5 @@
+pip install numpy
+pip install math
+pip install pandas
+pip install tensorflow
+pip install bokeh
